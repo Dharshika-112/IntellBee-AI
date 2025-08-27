@@ -1,0 +1,12 @@
+{
+  "users": [
+    {
+      "email": "dsdharshika5@gmail.com",
+      "password": "dharshi@2005",
+      "prefs": {
+        "lang": "en-US",
+        "voiceGender": "female"
+      }
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+    "scripts": {
+      "backend": "python backend/app.py",
+      "frontend": "cd frontend && npm run dev",
+      "dev": "concurrently \"npm run backend\" \"npm run frontend\""
+    },
+    "dependencies": {
+      "concurrently": "^8.2.0"
+    }
+  }
