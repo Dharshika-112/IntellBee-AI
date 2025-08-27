@@ -145,5 +145,4 @@ Feel free to fork this repo and submit pull requests.
 
 ```
 
-Would you like me to also **add a project architecture diagram (Frontend ↔ Backend ↔ Gemini API ↔ JSON Storage)** in the README for more clarity?
 ```
