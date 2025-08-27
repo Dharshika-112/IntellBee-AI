@@ -2,7 +2,7 @@
 
 > A multilingual AI assistant powered by Google Gemini, supporting voice input, translation, and conversation history.
 
-![Login Screen](l)  
+![Login Screen](login.png)  
 *Login screen of INTELLBEE*
 
 ![Chat Interface](chat.png)  
